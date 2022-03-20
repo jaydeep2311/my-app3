@@ -1,0 +1,106 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "todos": [
+    {
+      "title": "Eat",
+      "status": false,
+      "id": 1
+    },
+    {
+      "title": "Sleep",
+      "status": false,
+      "id": 2
+    },
+    {
+      "title": "Code",
+      "status": false,
+      "id": 3
+    },
+    {
+      "title": "Repeat",
+      "status": false,
+      "id": 4
+    },
+    {
+      "title": "Repeat",
+      "status": false,
+      "id": 5
+    },
+    {
+      "title": "Please",
+      "status": false,
+      "id": 6
+    },
+    {
+      "title": "Smile",
+      "status": false,
+      "id": 7
+    },
+    {
+      "title": "Coz",
+      "status": false,
+      "id": 8
+    },
+    {
+      "title": "Coz",
+      "status": false,
+      "id": 9
+    },
+    {
+      "title": "for",
+      "status": false,
+      "id": 10
+    },
+    {
+      "title": "slay",
+      "status": false,
+      "id": 11
+    },
+    {
+      "title": "slay",
+      "status": false,
+      "id": 12
+    },
+    {
+      "title": "slay",
+      "status": false,
+      "id": 13
+    },
+    {
+      "title": "Pottty",
+      "status": false,
+      "id": 14
+    },
+    {
+      "title": "Pottty",
+      "status": false,
+      "id": 15
+    },
+    {
+      "title": "Pottty",
+      "status": false,
+      "id": 16
+    },
+    {
+      "title": "Sleep",
+      "status": false,
+      "id": 17
+    }
+  ]
+}
